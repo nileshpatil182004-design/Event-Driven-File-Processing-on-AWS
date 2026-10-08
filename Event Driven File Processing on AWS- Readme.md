@@ -315,27 +315,31 @@ below once the files have been committed to GitHub.
 
 #### 1. S3 bucket
 
-![Amazon S3 bucket](screenshots/01-s3-bucket.png)
+![image alt](https://github.com/nileshpatil182004-design/Event-Driven-File-Processing-on-AWS/blob/c357c6f7b5a9092e3d7f5742199a8014c08113f7/s3-bucket.png)
 
 #### 2. Lambda function
 
-![AWS Lambda function](screenshots/02-lambda-function.png)
+![image alt](https://github.com/nileshpatil182004-design/Event-Driven-File-Processing-on-AWS/blob/c357c6f7b5a9092e3d7f5742199a8014c08113f7/lambda-function.png)
 
 #### 3. Lambda Python code
 
-![Lambda Python code](screenshots/03-lambda-code.png)
+![image alt](https://github.com/nileshpatil182004-design/Event-Driven-File-Processing-on-AWS/blob/c357c6f7b5a9092e3d7f5742199a8014c08113f7/Lambda-Code.png)
 
 #### 4. S3 trigger
 
-![S3 trigger configuration](screenshots/04-s3-trigger.png)
+![image alt](https://github.com/nileshpatil182004-design/Event-Driven-File-Processing-on-AWS/blob/c357c6f7b5a9092e3d7f5742199a8014c08113f7/s3-Trigger%20-configuration.png)
 
 #### 5. Uploaded test file
 
-![Uploaded hello.txt file](screenshots/05-file-upload.png)
+![image alt](https://github.com/nileshpatil182004-design/Event-Driven-File-Processing-on-AWS/blob/c357c6f7b5a9092e3d7f5742199a8014c08113f7/S3%20Test-file-Upload.png)
 
-#### 6. CloudWatch event logs
+#### 6. Browser - hello.txt - Testtig
 
-![CloudWatch event logs](screenshots/06-cloudwatch-logs.png)
+![image alt](https://github.com/nileshpatil182004-design/Event-Driven-File-Processing-on-AWS/blob/c357c6f7b5a9092e3d7f5742199a8014c08113f7/Browser-%20hello.txt-Testing.png)
+
+#### 7. CloudWatch event logs
+
+![image alt](https://github.com/nileshpatil182004-design/Event-Driven-File-Processing-on-AWS/blob/c357c6f7b5a9092e3d7f5742199a8014c08113f7/Cloudwatch-logs.png)
 
 ## ✅ Validation Checklist
 
