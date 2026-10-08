@@ -333,7 +333,7 @@ below once the files have been committed to GitHub.
 
 ![image alt](https://github.com/nileshpatil182004-design/Event-Driven-File-Processing-on-AWS/blob/c357c6f7b5a9092e3d7f5742199a8014c08113f7/S3%20Test-file-Upload.png)
 
-#### 6. Browser - hello.txt - Testtig
+#### 6. Browser - hello.txt - Testing
 
 ![image alt](https://github.com/nileshpatil182004-design/Event-Driven-File-Processing-on-AWS/blob/c357c6f7b5a9092e3d7f5742199a8014c08113f7/Browser-%20hello.txt-Testing.png)
 
