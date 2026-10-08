@@ -372,7 +372,7 @@ By completing this project, you practise:
 ## 👤 Author
 
 ** Nilesh Pradeep Patil
-GitHub: `@your-github-username`
+GitHub: `https://github.com/nileshpatil182004-design`
 
 Replace the placeholders above with your own details before publishing.
 
