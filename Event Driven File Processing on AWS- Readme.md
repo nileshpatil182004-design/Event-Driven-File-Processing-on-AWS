@@ -374,8 +374,6 @@ By completing this project, you practise:
 ** Nilesh Pradeep Patil
 GitHub: `https://github.com/nileshpatil182004-design`
 
-Replace the placeholders above with your own details before publishing.
-
 ------------------------------------------------------------------------
 
 **Built for learning AWS serverless and event-driven architecture.**
